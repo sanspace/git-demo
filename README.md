@@ -14,13 +14,14 @@
 
 `git checkout -b new-branch` - create and switch to new-branch
 
-`git checout branch` - switch to branch
+`git checkout branch` - switch to branch
 
 ## Github
 
 Create a new repo on web UI and follow along the instructions.
 
 `git remote add origin <repo url>` - add a remote
+
 `git push -u origin master` - first time only
 
 going forward
